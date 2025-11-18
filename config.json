@@ -1,8 +1,8 @@
 {
-  "name": "texecom2mqtt",
+  "name": "Texecom2MQTT Garage",
   "version": "1.3.1",
-  "slug": "texecom2mqtt",
-  "description": "Add-on to interface with Texecom Premier Elite alarm panels using MQTT",
+  "slug": "texecom2mqtt-garage",
+  "description": ""Texecom alarm panel for Garage"",
   "url": "https://github.com/dchesterton/texecom2mqtt-hassio",
   "startup": "application",
   "image": "dchesterton/texecom2mqtt",
