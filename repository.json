@@ -1,5 +1,5 @@
 {
-    "name": "texecom2mqtt Home Assistant Add-on",
-    "url": "https://github.com/dchesterton/texecom2mqtt-hassio",
-    "maintainer": "Daniel Chesterton <daniel@chestertondevelopment.com>"
+    "name": "Texecom Add-ons (Garage)",
+    "url": "https://github.com/dkboldPers/texecom2mqtt-hassio-garage",
+    "maintainer": "Danny B"
 }
