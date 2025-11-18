@@ -16,6 +16,7 @@
       "host": ""
     },
     "mqtt": {},
+    "homeassistant": {},
     "areas": [],
     "zones": []
   },
